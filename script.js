@@ -4,11 +4,6 @@ const state = {
 };
 
 const elements = {
-  totalProducts: document.querySelector('#totalProducts'),
-  newLaunches: document.querySelector('#newLaunches'),
-  afProducts: document.querySelector('#afProducts'),
-  mfProducts: document.querySelector('#mfProducts'),
-  linkedProducts: document.querySelector('#linkedProducts'),
   searchInput: document.querySelector('#searchInput'),
   focusFilter: document.querySelector('#focusFilter'),
   mountFilter: document.querySelector('#mountFilter'),
@@ -59,14 +54,6 @@ function compareLaunchDate(a, b) {
   const aDate = a.launchDate || '9999-12-31';
   const bDate = b.launchDate || '9999-12-31';
   return aDate.localeCompare(bDate) || a.productName.localeCompare(b.productName);
-}
-
-function updateDashboard(products) {
-  elements.totalProducts.textContent = products.length;
-  elements.newLaunches.textContent = products.filter(isNewLaunch).length;
-  elements.afProducts.textContent = products.filter((product) => product.focusType === 'AF').length;
-  elements.mfProducts.textContent = products.filter((product) => product.focusType === 'MF').length;
-  elements.linkedProducts.textContent = products.filter(hasAssetLinks).length;
 }
 
 function productMatchesFilters(product) {
@@ -245,7 +232,6 @@ async function loadProducts() {
     const response = await fetch('products.json');
     if (!response.ok) throw new Error(`Failed to load products.json: ${response.status}`);
     state.products = await response.json();
-    updateDashboard(state.products);
     renderProducts();
   } catch (error) {
     elements.productGrid.innerHTML = `<p class="empty-state">${error.message}. Please preview this site with a local web server.</p>`;

@@ -1,24 +1,22 @@
 # Brightin Star Dealer Catalog Update Report
 
-Generated: 2026-05-31T04:13:00.809049+00:00
+Generated: 2026-05-31T05:22:33.062384+00:00
 
 ## Summary
 
 - Total products: 28
 - New launches: 7
 - Existing catalog products: 21
-- Products with matched Google Drive links: 0
+- Products with matched Google Drive links: 2
 
 ## Products Missing Google Drive Links
 
-- AF 12mm F2.8 Full-frame
 - AF 85mm F1.8 Full-frame
 - AF 50mm F1.4 APS-C
 - AF 35mm F1.8 Full-frame
 - AF 24mm F1.8 Full-frame
 - MF 28mm F2.8 Full-frame
 - MF 14mm F2.8 Full-frame
-- MF 60mm F2.8 APS-C
 - MF 55mm F1.8 Full-frame
 - MF 50mm F1.8 APS-C
 - MF 50mm F1.05 Full-frame
@@ -43,6 +41,10 @@ Generated: 2026-05-31T04:13:00.809049+00:00
 ## Products Missing Key Fields
 
 None
+
+## Filtered Sensitive Fields
+
+- None
 
 ## Unrecognized Fields
 
