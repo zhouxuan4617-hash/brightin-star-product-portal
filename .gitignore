@@ -1,0 +1,35 @@
+# Python/cache files
+__pycache__/
+*.py[cod]
+
+# OS metadata
+.DS_Store
+
+# Local/raw source inputs and staging areas: keep placeholders only.
+source/current/*
+!source/current/.gitkeep
+source/incoming/*
+!source/incoming/.gitkeep
+source/archive/*
+!source/archive/.gitkeep
+current/*
+!current/.gitkeep
+incoming/*
+!incoming/.gitkeep
+archive/*
+!archive/.gitkeep
+
+# Never commit raw spreadsheets or large marketing-material packages.
+*.xls
+*.xlsx
+*.xlsm
+*.csv.tmp
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.psd
+*.ai
+*.pdf
