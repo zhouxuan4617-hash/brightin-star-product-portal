@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brightin Star Catalog & Launching Plan</title>
+  <meta name="description" content="Brightin Star product catalog and launch plan for partners.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <a class="hero-brand" href="./" aria-label="Brightin Star home">BRIGHTIN STAR</a>
+      <h1>Brightin Star Catalog &amp; Launching Plan</h1>
+      <p class="subtitle">Product catalog and launch plan for Brightin Star partners.</p>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="catalog-section launches-section" aria-labelledby="launchesTitle">
+      <div class="section-heading">
+        <h2 id="launchesTitle">New Launches</h2>
+      </div>
+      <div id="newLaunchesGrid" class="product-grid"></div>
+      <p id="noLaunches" class="empty-state" hidden>No upcoming launches.</p>
+    </section>
+
+    <section class="catalog-section product-catalog" aria-labelledby="catalogTitle">
+      <div class="section-heading catalog-heading">
+        <div>
+          <h2 id="catalogTitle">Product Catalog</h2>
+        </div>
+        <p class="section-note">Search and filter public product information.</p>
+      </div>
+
+      <section class="filters catalog-toolbar" aria-label="Search and filters">
+        <label class="search-field">Search
+          <input id="searchInput" type="search" placeholder="Search product name, model, mount or format">
+        </label>
+        <label>Focus Type
+          <select id="focusFilter"><option>All</option><option>AF</option><option>MF</option><option>Adapter</option></select>
+        </label>
+        <label>Mount
+          <select id="mountFilter"><option>All</option><option>E</option><option>Z</option><option>RF</option><option>L</option><option>M</option><option>X</option><option>M4/3</option></select>
+        </label>
+        <label>Format
+          <select id="formatFilter"><option>All</option><option>Full-frame</option><option>APS-C</option></select>
+        </label>
+        <label>Status
+          <select id="statusFilter"><option>All</option><option>Coming Soon</option><option>Launching</option><option>Available</option><option>Discontinued</option></select>
+        </label>
+      </section>
+
+      <div id="productGrid" class="product-grid"></div>
+      <p id="noProducts" class="empty-state" hidden>No products match the current filters.</p>
+    </section>
+  </main>
+
+  <footer id="support" class="footer">
+    <a class="primary-link" href="https://drive.google.com/drive/folders/18PWOr3hTWDVyu98quoFiCOk1LGVyiTPy?usp=sharing" target="_blank" rel="noopener">View All Marketing Materials</a>
+    <p>All marketing materials are hosted on Google Drive. Please contact Brightin Star if you need access permission.</p>
+  </footer>
+
+  <dialog id="productDialog" class="product-dialog">
+    <button class="dialog-close" type="button" aria-label="Close product details">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>
