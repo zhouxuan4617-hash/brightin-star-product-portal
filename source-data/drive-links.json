@@ -1,23 +1,301 @@
 {
-  "workbookName": "drive link.xlsx",
+  "workbookName": "drive-links-export-merged",
   "sheets": {
     "Sheet1": {
-      "address": "A1:B3",
+      "address": "A1:C29",
       "rawRows": [
-        ["model", "link"],
-        ["MF 60mm F2.8 APS-C", "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC?usp=drive_link"],
-        ["AF12mmF2.8 fullframe", "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9?usp=drive_link"]
+        [
+          "model",
+          "folder_name",
+          "asset_link"
+        ],
+        [
+          "AF 12mm F2.8 Full-frame",
+          "AF12mmF2.8 fullframe",
+          "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9"
+        ],
+        [
+          "MF 10mm F5.6 II APS-C",
+          "MF 10mm F5.6 Ⅱ APS-C",
+          "https://drive.google.com/drive/folders/1O49AdAB9WMfb-EJPu4R6B-ezWbN0Wzst"
+        ],
+        [
+          "MF 7.5mm F2.8 IV APS-C",
+          "MF 7.5mm F2.8 Ⅳ APSC",
+          "https://drive.google.com/drive/folders/1_PuRz47cQaEG6zpf3LlsINTwpjT8ID62"
+        ],
+        [
+          "MF 11mm F2.8 II Full-frame",
+          "MF 11mm F2.8 Ⅱ Full-frame",
+          "https://drive.google.com/drive/folders/1Qd3_m6e5DZx5GtWfXPY_XEXrQWtTQRMk"
+        ],
+        [
+          "MF 60mm F2.8 APS-C",
+          "MF 60mm F2.8 APS-C",
+          "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC"
+        ],
+        [
+          "Brand content",
+          "Brand content",
+          "https://drive.google.com/drive/folders/1QMzU2O8IM_tiTy8ZpB4o7ZKzIwHHOj3C"
+        ],
+        [
+          "additional required pls info manager",
+          "additional required pls info manager",
+          "https://drive.google.com/drive/folders/1CV7d4YFb9UZLFcNZxmPJGhwskvJWlPQq"
+        ],
+        [
+          "MF 50mm F1.05 Full-frame",
+          "MF 50mm F1.05 Full-frame",
+          "https://drive.google.com/drive/folders/1kZkWcyhMtsZtGfl1JiJBZWdvInQN_7Ck"
+        ],
+        [
+          "MF 35mm F1.4 Full-frame",
+          "MF 35mm F1.4 Full-frame",
+          "https://drive.google.com/drive/folders/1YLqaTFIbQsvhF0kZzlZ8zRsSYwxJY6wa"
+        ],
+        [
+          "AF 35mm F1.8 Full-frame",
+          "AF 35mm F1.8 Full-frame",
+          "https://drive.google.com/drive/folders/1FpQFpgbl1kXx__JgMMihLA-t3HZftmfs"
+        ],
+        [
+          "AF 24mm F1.8 Full-frame",
+          "AF 24mm F1.8 Full-frame",
+          "https://drive.google.com/drive/folders/1iP_rPsFHN5egDklifO9z4n9d3oXS1-5e"
+        ],
+        [
+          "MF 12mm F2.8 Full-frame",
+          "MF 12mm F2.8 Full-frame",
+          "https://drive.google.com/drive/folders/16nHrSkWEwl9VxVSp6Yi1XC7-Seu1b_9K"
+        ],
+        [
+          "MF 10mm F5.6 PRO APS-C",
+          "MF 10mmF5.6 PRO APS-C",
+          "https://drive.google.com/drive/folders/191ZjQYNCM_1A9lFN_mpZDL1z4y9id1dh"
+        ],
+        [
+          "MF 35mm F0.95 APS-C Luminous Version",
+          "MF 35mm F0.95 APS-C Luminous Version",
+          "https://drive.google.com/drive/folders/15c5a0ReHqxd1Had4Sf4aiVYe2q4hJAKx"
+        ],
+        [
+          "LM Adapter",
+          "LM adopter",
+          "https://drive.google.com/drive/folders/1O-rt9Qe6wT1-Tbzdh2EMDgopT2QGjiXO"
+        ],
+        [
+          "MF 16mm F2.8 Full-frame",
+          "MF 16mm F2.8 Full-frame",
+          "https://drive.google.com/drive/folders/1-kGjRjt9M2xRPTOh5lKq8cBQwRn_TNLZ"
+        ],
+        [
+          "MF 9mm F5.6 Full-frame",
+          "MF 9mm F5.6 Full-frame",
+          "https://drive.google.com/drive/folders/10czG6boefiOyZQTnABhUpBSEeBP0HZSA"
+        ],
+        [
+          "MF 50mm F0.95 II Full-frame",
+          "MF 50mm F0.95Ⅱ Full-frame",
+          "https://drive.google.com/drive/folders/1sMb-Zx27X1Z0xWc8dtEpOPBm2UPHHZQY"
+        ],
+        [
+          "MF 50mm F1.4 APS-C",
+          "MF 50mm F1.4 APS-C",
+          "https://drive.google.com/drive/folders/17Q-yMgS_ZC4QqHuAFmREnXhAjVBGS8Pz"
+        ],
+        [
+          "MF 35mm F1.7 APS-C",
+          "MF 35mm F1.7 APS-C",
+          "https://drive.google.com/drive/folders/19A3PLxIq670CoIurZYTjPJ7zKM8bW50s"
+        ],
+        [
+          "MF 28mm F2.8 Full-frame",
+          "MF 28mm F2.8 Full-frame",
+          "https://drive.google.com/drive/folders/1XCHpjxmG50sw1XxQPdRc_Xx70n0soDJ8"
+        ],
+        [
+          "MF 55mm F1.8 Full-frame",
+          "MF 55mm F1.8 Full-frame",
+          "https://drive.google.com/drive/folders/1iqnsq-03ohvvS-mW3xcyvk6Ng9bV0N1I"
+        ],
+        [
+          "MF 35mm F0.95 APS-C Silver",
+          "MF 35mm F0.95 APS-C Silver",
+          "https://drive.google.com/drive/folders/10LUHFJaQSyR861a0k61WJLKq_E3LDIn7"
+        ],
+        [
+          "MF 50mm F1.8 APS-C",
+          "MF 50mm F1.8 APS-C",
+          "https://drive.google.com/drive/folders/1FkyT5nIls3UkfnSrS484Wsm2BUQh8dqs"
+        ],
+        [
+          "MF 12mm F2.0 III APS-C",
+          "MF 12mm F2.0 Ⅲ APS-C",
+          "https://drive.google.com/drive/folders/1gF7-xP4MYImNQrE3ZNeUyTRgcEsYY4F_"
+        ],
+        [
+          "AF 85mm F1.8 Full-frame",
+          "AF 85mm F1.8 Full-frame",
+          "https://drive.google.com/drive/folders/1kWjokCyF3GSP3fVaoRJJrFH_wgfSunnO"
+        ],
+        [
+          "MF 50mm F0.95 APS-C",
+          "MF 50mm F0.95 APS-C",
+          "https://drive.google.com/drive/folders/1vktPlO0xuXGGB2SXsZm6mvTMw0f9a5Wy"
+        ],
+        [
+          "AF 50mm F1.4 APS-C",
+          "AF 50mmF1.4 APS-C",
+          "https://drive.google.com/drive/folders/1w5CP7z6r_7s8KqSviyRxt4RLC_0XGpbj"
+        ]
       ],
       "headerRowIndex": 0,
-      "headers": ["model", "link"],
+      "headers": [
+        "model",
+        "folder_name",
+        "asset_link"
+      ],
       "records": [
         {
-          "model": "MF 60mm F2.8 APS-C",
-          "link": "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC?usp=drive_link"
+          "model": "AF 12mm F2.8 Full-frame",
+          "folder_name": "AF12mmF2.8 fullframe",
+          "asset_link": "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9"
         },
         {
-          "model": "AF12mmF2.8 fullframe",
-          "link": "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9?usp=drive_link"
+          "model": "MF 10mm F5.6 II APS-C",
+          "folder_name": "MF 10mm F5.6 Ⅱ APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1O49AdAB9WMfb-EJPu4R6B-ezWbN0Wzst"
+        },
+        {
+          "model": "MF 7.5mm F2.8 IV APS-C",
+          "folder_name": "MF 7.5mm F2.8 Ⅳ APSC",
+          "asset_link": "https://drive.google.com/drive/folders/1_PuRz47cQaEG6zpf3LlsINTwpjT8ID62"
+        },
+        {
+          "model": "MF 11mm F2.8 II Full-frame",
+          "folder_name": "MF 11mm F2.8 Ⅱ Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1Qd3_m6e5DZx5GtWfXPY_XEXrQWtTQRMk"
+        },
+        {
+          "model": "MF 60mm F2.8 APS-C",
+          "folder_name": "MF 60mm F2.8 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC"
+        },
+        {
+          "model": "Brand content",
+          "folder_name": "Brand content",
+          "asset_link": "https://drive.google.com/drive/folders/1QMzU2O8IM_tiTy8ZpB4o7ZKzIwHHOj3C"
+        },
+        {
+          "model": "additional required pls info manager",
+          "folder_name": "additional required pls info manager",
+          "asset_link": "https://drive.google.com/drive/folders/1CV7d4YFb9UZLFcNZxmPJGhwskvJWlPQq"
+        },
+        {
+          "model": "MF 50mm F1.05 Full-frame",
+          "folder_name": "MF 50mm F1.05 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1kZkWcyhMtsZtGfl1JiJBZWdvInQN_7Ck"
+        },
+        {
+          "model": "MF 35mm F1.4 Full-frame",
+          "folder_name": "MF 35mm F1.4 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1YLqaTFIbQsvhF0kZzlZ8zRsSYwxJY6wa"
+        },
+        {
+          "model": "AF 35mm F1.8 Full-frame",
+          "folder_name": "AF 35mm F1.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1FpQFpgbl1kXx__JgMMihLA-t3HZftmfs"
+        },
+        {
+          "model": "AF 24mm F1.8 Full-frame",
+          "folder_name": "AF 24mm F1.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1iP_rPsFHN5egDklifO9z4n9d3oXS1-5e"
+        },
+        {
+          "model": "MF 12mm F2.8 Full-frame",
+          "folder_name": "MF 12mm F2.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/16nHrSkWEwl9VxVSp6Yi1XC7-Seu1b_9K"
+        },
+        {
+          "model": "MF 10mm F5.6 PRO APS-C",
+          "folder_name": "MF 10mmF5.6 PRO APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/191ZjQYNCM_1A9lFN_mpZDL1z4y9id1dh"
+        },
+        {
+          "model": "MF 35mm F0.95 APS-C Luminous Version",
+          "folder_name": "MF 35mm F0.95 APS-C Luminous Version",
+          "asset_link": "https://drive.google.com/drive/folders/15c5a0ReHqxd1Had4Sf4aiVYe2q4hJAKx"
+        },
+        {
+          "model": "LM Adapter",
+          "folder_name": "LM adopter",
+          "asset_link": "https://drive.google.com/drive/folders/1O-rt9Qe6wT1-Tbzdh2EMDgopT2QGjiXO"
+        },
+        {
+          "model": "MF 16mm F2.8 Full-frame",
+          "folder_name": "MF 16mm F2.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1-kGjRjt9M2xRPTOh5lKq8cBQwRn_TNLZ"
+        },
+        {
+          "model": "MF 9mm F5.6 Full-frame",
+          "folder_name": "MF 9mm F5.6 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/10czG6boefiOyZQTnABhUpBSEeBP0HZSA"
+        },
+        {
+          "model": "MF 50mm F0.95 II Full-frame",
+          "folder_name": "MF 50mm F0.95Ⅱ Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1sMb-Zx27X1Z0xWc8dtEpOPBm2UPHHZQY"
+        },
+        {
+          "model": "MF 50mm F1.4 APS-C",
+          "folder_name": "MF 50mm F1.4 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/17Q-yMgS_ZC4QqHuAFmREnXhAjVBGS8Pz"
+        },
+        {
+          "model": "MF 35mm F1.7 APS-C",
+          "folder_name": "MF 35mm F1.7 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/19A3PLxIq670CoIurZYTjPJ7zKM8bW50s"
+        },
+        {
+          "model": "MF 28mm F2.8 Full-frame",
+          "folder_name": "MF 28mm F2.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1XCHpjxmG50sw1XxQPdRc_Xx70n0soDJ8"
+        },
+        {
+          "model": "MF 55mm F1.8 Full-frame",
+          "folder_name": "MF 55mm F1.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1iqnsq-03ohvvS-mW3xcyvk6Ng9bV0N1I"
+        },
+        {
+          "model": "MF 35mm F0.95 APS-C Silver",
+          "folder_name": "MF 35mm F0.95 APS-C Silver",
+          "asset_link": "https://drive.google.com/drive/folders/10LUHFJaQSyR861a0k61WJLKq_E3LDIn7"
+        },
+        {
+          "model": "MF 50mm F1.8 APS-C",
+          "folder_name": "MF 50mm F1.8 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1FkyT5nIls3UkfnSrS484Wsm2BUQh8dqs"
+        },
+        {
+          "model": "MF 12mm F2.0 III APS-C",
+          "folder_name": "MF 12mm F2.0 Ⅲ APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1gF7-xP4MYImNQrE3ZNeUyTRgcEsYY4F_"
+        },
+        {
+          "model": "AF 85mm F1.8 Full-frame",
+          "folder_name": "AF 85mm F1.8 Full-frame",
+          "asset_link": "https://drive.google.com/drive/folders/1kWjokCyF3GSP3fVaoRJJrFH_wgfSunnO"
+        },
+        {
+          "model": "MF 50mm F0.95 APS-C",
+          "folder_name": "MF 50mm F0.95 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1vktPlO0xuXGGB2SXsZm6mvTMw0f9a5Wy"
+        },
+        {
+          "model": "AF 50mm F1.4 APS-C",
+          "folder_name": "AF 50mmF1.4 APS-C",
+          "asset_link": "https://drive.google.com/drive/folders/1w5CP7z6r_7s8KqSviyRxt4RLC_0XGpbj"
         }
       ]
     }
