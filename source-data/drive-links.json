@@ -1,137 +1,37 @@
-[
-  {
-    "productKey": "MF 60mm F2.8 APS-C",
-    "folderName": "MF 60mm F2.8 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 55mm F1.8 Full-frame",
-    "folderName": "MF 55mm F1.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 50mm F1.8 APS-C",
-    "folderName": "MF 50mm F1.8 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 50mm F1.05 Full-frame",
-    "folderName": "MF 50mm F1.05 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 50mm F1.4 APS-C",
-    "folderName": "MF 50mm F1.4 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 50mm F0.95 II Full-frame",
-    "folderName": "MF 50mm F0.95Ⅱ Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 50mm F0.95 APS-C",
-    "folderName": "MF 50mm F0.95 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 35mm F1.7 APS-C",
-    "folderName": "MF 35mm F1.7 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 35mm F1.4 Full-frame",
-    "folderName": "MF 35mm F1.4 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 35mm F0.95 APS-C Silver",
-    "folderName": "MF 35mm F0.95 APS-C Silver",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 35mm F0.95 APS-C Luminous Version",
-    "folderName": "MF 35mm F0.95 APS-C Luminous Version",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 28mm F2.8 Full-frame",
-    "folderName": "MF 28mm F2.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 16mm F2.8 Full-frame",
-    "folderName": "MF 16mm F2.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 12mm F2.8 Full-frame",
-    "folderName": "MF 12mm F2.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 12mm F2.0 III APS-C",
-    "folderName": "MF 12mm F2.0 Ⅲ APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 11mm F2.8 II Full-frame",
-    "folderName": "MF 11mm F2.8 Ⅱ Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 10mm F5.6 PRO APS-C",
-    "folderName": "MF 10mm F5.6 PRO APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 10mm F5.6 II APS-C",
-    "folderName": "MF 10mm F5.6 Ⅱ APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 9mm F5.6 Full-frame",
-    "folderName": "MF 9mm F5.6 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "MF 7.5mm F2.8 IV APS-C",
-    "folderName": "MF 7.5mm F2.8 Ⅳ APSC",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "LM Adapter",
-    "folderName": "LM adapter",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "Brand content",
-    "folderName": "Brand content",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "AF 12mm F2.8 Full-frame",
-    "folderName": "AF12mmF2.8 fullframe",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "AF 85mm F1.8 Full-frame",
-    "folderName": "AF 85mm F1.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "AF 50mm F1.4 APS-C",
-    "folderName": "AF 50mmF1.4 APS-C",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "AF 35mm F1.8 Full-frame",
-    "folderName": "AF 35mm F1.8 Full-frame",
-    "googleDriveFolderUrl": ""
-  },
-  {
-    "productKey": "AF 24mm F1.8 Full-frame",
-    "folderName": "AF 24mm F1.8 Full-frame",
-    "googleDriveFolderUrl": ""
+{
+  "workbookName": "drive link(1).xlsx",
+  "sheets": {
+    "Sheet1": {
+      "address": "A1:B3",
+      "rawRows": [
+        [
+          "model",
+          "link"
+        ],
+        [
+          "MF 60mm F2.8 APS-C",
+          "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC?usp=drive_link"
+        ],
+        [
+          "AF12mmF2.8 fullframe",
+          "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9?usp=drive_link"
+        ]
+      ],
+      "headerRowIndex": 0,
+      "headers": [
+        "model",
+        "link"
+      ],
+      "records": [
+        {
+          "model": "MF 60mm F2.8 APS-C",
+          "link": "https://drive.google.com/drive/folders/1vkUjKOHLVwF54nRN9w2iAn5fhOMdIEFC?usp=drive_link"
+        },
+        {
+          "model": "AF12mmF2.8 fullframe",
+          "link": "https://drive.google.com/drive/folders/1SaVKEwfsbWnaaWiql_B8NdeOwoOJbsv9?usp=drive_link"
+        }
+      ]
+    }
   }
-]
+}
