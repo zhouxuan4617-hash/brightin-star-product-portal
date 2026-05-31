@@ -1,0 +1,359 @@
+[
+  {
+    "id": "new-01-af-12mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "AF 12mm F2.8 Full-frame",
+    "model": "12mm F2.8",
+    "cnName": "",
+    "enName": "AF 12mm F2.8 Full-frame",
+    "focusType": "AF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-02-af-85mm-f1-8-full-frame",
+    "ean": "",
+    "productName": "AF 85mm F1.8 Full-frame",
+    "model": "85mm F1.8",
+    "cnName": "",
+    "enName": "AF 85mm F1.8 Full-frame",
+    "focusType": "AF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-03-af-50mm-f1-4-aps-c",
+    "ean": "",
+    "productName": "AF 50mm F1.4 APS-C",
+    "model": "50mm F1.4",
+    "cnName": "",
+    "enName": "AF 50mm F1.4 APS-C",
+    "focusType": "AF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-04-af-35mm-f1-8-full-frame",
+    "ean": "",
+    "productName": "AF 35mm F1.8 Full-frame",
+    "model": "35mm F1.8",
+    "cnName": "",
+    "enName": "AF 35mm F1.8 Full-frame",
+    "focusType": "AF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-05-af-24mm-f1-8-full-frame",
+    "ean": "",
+    "productName": "AF 24mm F1.8 Full-frame",
+    "model": "24mm F1.8",
+    "cnName": "",
+    "enName": "AF 24mm F1.8 Full-frame",
+    "focusType": "AF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-06-mf-28mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "MF 28mm F2.8 Full-frame",
+    "model": "28mm F2.8",
+    "cnName": "",
+    "enName": "MF 28mm F2.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "new-07-mf-14mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "MF 14mm F2.8 Full-frame",
+    "model": "14mm F2.8",
+    "cnName": "",
+    "enName": "MF 14mm F2.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Launching",
+    "isNewLaunch": true,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  }
+]

@@ -19,6 +19,10 @@ ROOT = Path(__file__).resolve().parents[1]
 PRODUCTS_PATH = ROOT / "products.json"
 ASSET_LINKS_PATH = ROOT / "asset-links.csv"
 REPORT_PATH = ROOT / "update-report.md"
+SOURCE_DATA_DIR = ROOT / "source-data"
+NEW_PRODUCTS_SOURCE = SOURCE_DATA_DIR / "new-products.json"
+PRODUCT_DATABASE_SOURCE = SOURCE_DATA_DIR / "product-database.json"
+DRIVE_LINKS_SOURCE = SOURCE_DATA_DIR / "drive-links.json"
 SOURCE_CURRENT = ROOT / "source" / "current"
 
 SENSITIVE_FIELD_KEYWORDS = {
@@ -139,29 +143,100 @@ def sanitize_product(raw_product: dict[str, Any], unrecognized_fields: set[str])
     return product
 
 
-def read_existing_products() -> list[dict[str, Any]]:
+def load_json_file(path: Path) -> Any:
+    if not path.exists():
+        return []
+    with path.open(encoding="utf-8") as file:
+        return json.load(file)
+
+
+def extract_product_records(data: Any) -> list[dict[str, Any]]:
+    """Accept either a raw list or common wrapper keys from source-data JSON files."""
+    if isinstance(data, list):
+        return [item for item in data if isinstance(item, dict)]
+    if isinstance(data, dict):
+        for key in ("products", "items", "data", "records"):
+            value = data.get(key)
+            if isinstance(value, list):
+                return [item for item in value if isinstance(item, dict)]
+    return []
+
+
+def read_source_products(unrecognized_fields: set[str]) -> list[dict[str, Any]]:
+    """Read public-safe product records from source-data JSON files.
+
+    `new-products.json` and `product-database.json` are the preferred source files.
+    If both are absent, the script falls back to the existing generated products.json
+    so maintainers can bootstrap the source-data package without losing data.
+    """
+    source_files = (NEW_PRODUCTS_SOURCE, PRODUCT_DATABASE_SOURCE)
+    if any(path.exists() for path in source_files):
+        raw_products: list[dict[str, Any]] = []
+        for path in source_files:
+            raw_products.extend(extract_product_records(load_json_file(path)))
+        return [sanitize_product(product, unrecognized_fields) for product in raw_products]
+
     if not PRODUCTS_PATH.exists():
         return []
-    with PRODUCTS_PATH.open(encoding="utf-8") as file:
-        data = json.load(file)
-    return [sanitize_product(product, set()) for product in data]
+    return [sanitize_product(product, unrecognized_fields) for product in extract_product_records(load_json_file(PRODUCTS_PATH))]
 
 
-def read_asset_links() -> dict[str, str]:
+def add_link(links: dict[str, str], product_key: str, folder_name: str, url: str) -> None:
+    url = (url or "").strip()
+    if not url:
+        return
+    for value in (product_key, folder_name):
+        if value:
+            links[normalize_product_name(value)] = url
+
+
+def read_drive_links_json() -> dict[str, str]:
+    links: dict[str, str] = {}
+    data = load_json_file(DRIVE_LINKS_SOURCE)
+    if isinstance(data, dict):
+        for product_key, value in data.items():
+            if isinstance(value, str):
+                add_link(links, product_key, product_key, value)
+            elif isinstance(value, dict):
+                add_link(
+                    links,
+                    value.get("productKey") or product_key,
+                    value.get("folderName") or product_key,
+                    value.get("googleDriveFolderUrl") or value.get("url") or "",
+                )
+        records = extract_product_records(data)
+    else:
+        records = extract_product_records(data)
+
+    for row in records:
+        add_link(
+            links,
+            row.get("productKey", ""),
+            row.get("folderName", ""),
+            row.get("googleDriveFolderUrl") or row.get("url") or "",
+        )
+    return links
+
+
+def read_asset_links_csv() -> dict[str, str]:
     if not ASSET_LINKS_PATH.exists():
         return {}
     links: dict[str, str] = {}
     with ASSET_LINKS_PATH.open(encoding="utf-8", newline="") as file:
         reader = csv.DictReader(file)
         for row in reader:
-            url = (row.get("googleDriveFolderUrl") or "").strip()
-            if not url:
-                continue
-            product_key = row.get("productKey") or row.get("folderName") or ""
-            links[normalize_product_name(product_key)] = url
-            folder_name = row.get("folderName") or ""
-            if folder_name:
-                links[normalize_product_name(folder_name)] = url
+            add_link(
+                links,
+                row.get("productKey", ""),
+                row.get("folderName", ""),
+                row.get("googleDriveFolderUrl", ""),
+            )
+    return links
+
+
+def read_asset_links() -> dict[str, str]:
+    links = read_asset_links_csv()
+    links.update(read_drive_links_json())
     return links
 
 
@@ -221,11 +296,13 @@ def write_report(products: list[dict[str, Any]], unrecognized_fields: set[str]) 
 
 
 def main() -> None:
-    # First-version framework: keep current public-safe JSON as the source of truth.
+    # First-version framework: read public-safe JSON from source-data/.
     # Future versions can parse local files from source/current/ and map them into PRODUCT_TEMPLATE.
+    # Raw Excel files should remain local-only and should never be committed.
+    SOURCE_DATA_DIR.mkdir(parents=True, exist_ok=True)
     SOURCE_CURRENT.mkdir(parents=True, exist_ok=True)
     unrecognized_fields: set[str] = set()
-    products = [sanitize_product(product, unrecognized_fields) for product in read_existing_products()]
+    products = read_source_products(unrecognized_fields)
     asset_links = read_asset_links()
     apply_asset_links(products, asset_links)
     write_products(products)

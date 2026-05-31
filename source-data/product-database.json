@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "catalog-01-mf-60mm-f2-8-aps-c",
+    "ean": "",
+    "productName": "MF 60mm F2.8 APS-C",
+    "model": "60mm F2.8",
+    "cnName": "",
+    "enName": "MF 60mm F2.8 APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-02-mf-55mm-f1-8-full-frame",
+    "ean": "",
+    "productName": "MF 55mm F1.8 Full-frame",
+    "model": "55mm F1.8",
+    "cnName": "",
+    "enName": "MF 55mm F1.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-03-mf-50mm-f1-8-aps-c",
+    "ean": "",
+    "productName": "MF 50mm F1.8 APS-C",
+    "model": "50mm F1.8",
+    "cnName": "",
+    "enName": "MF 50mm F1.8 APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-04-mf-50mm-f1-05-full-frame",
+    "ean": "",
+    "productName": "MF 50mm F1.05 Full-frame",
+    "model": "50mm F1.05",
+    "cnName": "",
+    "enName": "MF 50mm F1.05 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-05-mf-50mm-f1-4-aps-c",
+    "ean": "",
+    "productName": "MF 50mm F1.4 APS-C",
+    "model": "50mm F1.4",
+    "cnName": "",
+    "enName": "MF 50mm F1.4 APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-06-mf-50mm-f0-95-ii-full-frame",
+    "ean": "",
+    "productName": "MF 50mm F0.95 II Full-frame",
+    "model": "50mm F0.95 II",
+    "cnName": "",
+    "enName": "MF 50mm F0.95 II Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-07-mf-50mm-f0-95-aps-c",
+    "ean": "",
+    "productName": "MF 50mm F0.95 APS-C",
+    "model": "50mm F0.95",
+    "cnName": "",
+    "enName": "MF 50mm F0.95 APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-08-mf-35mm-f1-7-aps-c",
+    "ean": "",
+    "productName": "MF 35mm F1.7 APS-C",
+    "model": "35mm F1.7",
+    "cnName": "",
+    "enName": "MF 35mm F1.7 APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-09-mf-35mm-f1-4-full-frame",
+    "ean": "",
+    "productName": "MF 35mm F1.4 Full-frame",
+    "model": "35mm F1.4",
+    "cnName": "",
+    "enName": "MF 35mm F1.4 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-10-mf-35mm-f0-95-aps-c-silver",
+    "ean": "",
+    "productName": "MF 35mm F0.95 APS-C Silver",
+    "model": "35mm F0.95",
+    "cnName": "",
+    "enName": "MF 35mm F0.95 APS-C Silver",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "Silver",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-11-mf-35mm-f0-95-aps-c-luminous-version",
+    "ean": "",
+    "productName": "MF 35mm F0.95 APS-C Luminous Version",
+    "model": "35mm F0.95",
+    "cnName": "",
+    "enName": "MF 35mm F0.95 APS-C Luminous Version",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "Luminous Version",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-12-mf-28mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "MF 28mm F2.8 Full-frame",
+    "model": "28mm F2.8",
+    "cnName": "",
+    "enName": "MF 28mm F2.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-13-mf-16mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "MF 16mm F2.8 Full-frame",
+    "model": "16mm F2.8",
+    "cnName": "",
+    "enName": "MF 16mm F2.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-14-mf-12mm-f2-8-full-frame",
+    "ean": "",
+    "productName": "MF 12mm F2.8 Full-frame",
+    "model": "12mm F2.8",
+    "cnName": "",
+    "enName": "MF 12mm F2.8 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-15-mf-12mm-f2-0-iii-aps-c",
+    "ean": "",
+    "productName": "MF 12mm F2.0 III APS-C",
+    "model": "12mm F2.0 III",
+    "cnName": "",
+    "enName": "MF 12mm F2.0 III APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-16-mf-11mm-f2-8-ii-full-frame",
+    "ean": "",
+    "productName": "MF 11mm F2.8 II Full-frame",
+    "model": "11mm F2.8 II",
+    "cnName": "",
+    "enName": "MF 11mm F2.8 II Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-17-mf-10mm-f5-6-pro-aps-c",
+    "ean": "",
+    "productName": "MF 10mm F5.6 PRO APS-C",
+    "model": "10mm F5.6 PRO",
+    "cnName": "",
+    "enName": "MF 10mm F5.6 PRO APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-18-mf-10mm-f5-6-ii-aps-c",
+    "ean": "",
+    "productName": "MF 10mm F5.6 II APS-C",
+    "model": "10mm F5.6 II",
+    "cnName": "",
+    "enName": "MF 10mm F5.6 II APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-19-mf-9mm-f5-6-full-frame",
+    "ean": "",
+    "productName": "MF 9mm F5.6 Full-frame",
+    "model": "9mm F5.6",
+    "cnName": "",
+    "enName": "MF 9mm F5.6 Full-frame",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "Full-frame",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-20-mf-7-5mm-f2-8-iv-aps-c",
+    "ean": "",
+    "productName": "MF 7.5mm F2.8 IV APS-C",
+    "model": "7.5mm F2.8 IV",
+    "cnName": "",
+    "enName": "MF 7.5mm F2.8 IV APS-C",
+    "focusType": "MF",
+    "series": "",
+    "mount": "",
+    "format": "APS-C",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "catalog-21-lm-adapter",
+    "ean": "",
+    "productName": "LM Adapter",
+    "model": "LM Adapter",
+    "cnName": "",
+    "enName": "LM Adapter",
+    "focusType": "Adapter",
+    "series": "",
+    "mount": "",
+    "format": "",
+    "color": "",
+    "status": "Available",
+    "isNewLaunch": false,
+    "arrivalDate": "",
+    "launchDate": "",
+    "launchPeriod": "",
+    "rrp": "",
+    "launchPrice": "",
+    "thumbnail": "assets/thumbnails/placeholder.svg",
+    "specs": {
+      "productMaterial": "",
+      "productDimensions": "",
+      "productWeight": "",
+      "includedAccessories": "",
+      "manual": "",
+      "angleOfView": "",
+      "minimumFocusDistance": "",
+      "magnification": "",
+      "opticalDesign": "",
+      "aperture": "",
+      "irisBlades": "",
+      "focusType": "",
+      "imageStabilization": "",
+      "filterSize": "",
+      "weatherSealing": "",
+      "buttonsAndKnobsDescription": ""
+    },
+    "keyFeatures": {
+      "en": [],
+      "cn": []
+    },
+    "assetLinks": [
+      {
+        "label": "Google Drive Asset Folder",
+        "type": "Google Drive Folder",
+        "url": ""
+      }
+    ],
+    "notes": ""
+  }
+]

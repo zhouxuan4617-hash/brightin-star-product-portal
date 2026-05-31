@@ -19,6 +19,11 @@ REQUIRED_FILES = (
     "README.md",
     "update-report.md",
     "assets/thumbnails/placeholder.svg",
+    "source-data/new-products.json",
+    "source-data/product-database.json",
+    "source-data/drive-links.json",
+    "source-data/README.md",
+    "source-data/conversion-report.md",
 )
 FORBIDDEN_DASHBOARD_PATHS = (
     "app",

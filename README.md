@@ -30,6 +30,12 @@ asset-links.csv
 .nojekyll
 README.md
 update-report.md
+source-data/
+  new-products.json
+  product-database.json
+  drive-links.json
+  README.md
+  conversion-report.md
 source/
   current/
   incoming/
@@ -94,9 +100,9 @@ Run the generator from the repository root:
 python scripts/generate-products.py
 ```
 
-The first version keeps `products.json` as the public-safe source of truth, applies available Google Drive links from `asset-links.csv`, filters sensitive fields, and writes `update-report.md`.
+The generator reads public-safe JSON source files from `source-data/`, applies available Google Drive links from `source-data/drive-links.json` and `asset-links.csv`, filters sensitive fields, writes `products.json`, and writes `update-report.md`.
 
-Future data-source files should be placed locally in `source/current/` only when needed for generation. Raw Excel source files must not be committed to this public repository. Excel files should be treated as local or temporary inputs, and only public-safe generated `products.json` should be committed.
+`source-data/new-products.json` stores public-safe new-launch records, `source-data/product-database.json` stores public-safe existing catalog records, and `source-data/drive-links.json` stores Google Drive folder mappings. Raw Excel source files must not be committed to this public repository. Excel files should be treated as local or temporary inputs, and only public-safe generated JSON should be committed.
 
 ## Pre-publish validation
 
