@@ -1,0 +1,1419 @@
+{
+  "workbookName": "Brightin Star新品价格表_2026_6(2).xlsx",
+  "sheets": {
+    "price sheet": {
+      "address": "A1:J13",
+      "rawRows": [
+        [
+          "Brightin Star\nNew Product Timeline, 2026 June",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "EAN CODE",
+          "Model",
+          "Mount",
+          "Format",
+          "color",
+          "RRP（USD）",
+          "Launch price（USD）",
+          "Expected listing date",
+          "Noted"
+        ],
+        [
+          "EAN编码",
+          "型号",
+          "卡口",
+          "画幅",
+          "颜色",
+          "建议零售价（USD）",
+          "首发活动价（USD）",
+          "预计发售日期",
+          "备注"
+        ],
+        [
+          6977732095823,
+          "Brightin Star  MF 28mmF2.8 LM Silver Full-frame",
+          "Leica M",
+          "Full-frame",
+          "Silver",
+          368.99,
+          318.99,
+          "2026/6/9 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096202,
+          "Brightin Star MF 14mmF2.8 L Black Full-Frame",
+          "L",
+          "Full-frame",
+          "Black",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096219,
+          "Brightin Star MF 14mmF2.8 RF Black Full-Frame",
+          "RF",
+          "Full-frame",
+          "Black",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096226,
+          "Brightin Star MF 14mmF2.8 Z Black Full-Frame",
+          "Z",
+          "Full-frame",
+          "Black",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096233,
+          "Brightin Star MF 14mmF2.8 E Black Full-Frame",
+          "E",
+          "Full-frame",
+          "Black",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight RF Full-frame",
+          "RF",
+          "Full-frame",
+          "Black",
+          null,
+          null,
+          46235,
+          "Inventory available in June"
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight L Full-frame",
+          "L",
+          "Full-frame",
+          "Black",
+          null,
+          null,
+          46235,
+          "Inventory available in June"
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight Z Full-frame",
+          "Z",
+          "Full-frame",
+          "Black",
+          null,
+          null,
+          46235,
+          "Inventory available in June"
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight E Full-frame",
+          "E",
+          "Full-frame",
+          "Black",
+          null,
+          null,
+          46235,
+          "Inventory available in June"
+        ],
+        [
+          null,
+          "Brightin Star MF 9mmF5.6 LM Full-frame",
+          "Leica M",
+          "Full-frame",
+          "Black",
+          null,
+          null,
+          46235,
+          "Inventory available in June"
+        ]
+      ],
+      "headerRowIndex": 1,
+      "headers": [
+        "EAN CODE",
+        "Model",
+        "Mount",
+        "Format",
+        "color",
+        "RRP（USD）",
+        "Launch price（USD）",
+        "Expected listing date",
+        "Noted"
+      ],
+      "records": [
+        {
+          "EAN CODE": "EAN编码",
+          "Model": "型号",
+          "Mount": "卡口",
+          "Format": "画幅",
+          "color": "颜色",
+          "RRP（USD）": "建议零售价（USD）",
+          "Launch price（USD）": "首发活动价（USD）",
+          "Expected listing date": "预计发售日期",
+          "Noted": "备注"
+        },
+        {
+          "EAN CODE": 6977732095823,
+          "Model": "Brightin Star  MF 28mmF2.8 LM Silver Full-frame",
+          "Mount": "Leica M",
+          "Format": "Full-frame",
+          "color": "Silver",
+          "RRP（USD）": 368.99,
+          "Launch price（USD）": 318.99,
+          "Expected listing date": "2026/6/9 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096202,
+          "Model": "Brightin Star MF 14mmF2.8 L Black Full-Frame",
+          "Mount": "L",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Expected listing date": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096219,
+          "Model": "Brightin Star MF 14mmF2.8 RF Black Full-Frame",
+          "Mount": "RF",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Expected listing date": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096226,
+          "Model": "Brightin Star MF 14mmF2.8 Z Black Full-Frame",
+          "Mount": "Z",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Expected listing date": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096233,
+          "Model": "Brightin Star MF 14mmF2.8 E Black Full-Frame",
+          "Mount": "E",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Expected listing date": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": null,
+          "Model": "Brightin Star MF 50mmF2.0 tri-sight RF Full-frame",
+          "Mount": "RF",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Expected listing date": 46235,
+          "Noted": "Inventory available in June"
+        },
+        {
+          "EAN CODE": null,
+          "Model": "Brightin Star MF 50mmF2.0 tri-sight L Full-frame",
+          "Mount": "L",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Expected listing date": 46235,
+          "Noted": "Inventory available in June"
+        },
+        {
+          "EAN CODE": null,
+          "Model": "Brightin Star MF 50mmF2.0 tri-sight Z Full-frame",
+          "Mount": "Z",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Expected listing date": 46235,
+          "Noted": "Inventory available in June"
+        },
+        {
+          "EAN CODE": null,
+          "Model": "Brightin Star MF 50mmF2.0 tri-sight E Full-frame",
+          "Mount": "E",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Expected listing date": 46235,
+          "Noted": "Inventory available in June"
+        },
+        {
+          "EAN CODE": null,
+          "Model": "Brightin Star MF 9mmF5.6 LM Full-frame",
+          "Mount": "Leica M",
+          "Format": "Full-frame",
+          "color": "Black",
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Expected listing date": 46235,
+          "Noted": "Inventory available in June"
+        }
+      ],
+      "droppedSensitiveColumns": [
+        "Wholesale price (USD)"
+      ]
+    },
+    "价格表": {
+      "address": "A1:K13",
+      "rawRows": [
+        [
+          "Brightin Star\nNew Product Timeline, 2026 June",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "EAN CODE",
+          "SKU",
+          "Mount",
+          "Format",
+          "Color",
+          "RRP（USD）",
+          "Launch price（USD）",
+          "Product Status",
+          "Noted"
+        ],
+        [
+          "EAN编码",
+          "型号",
+          "卡口",
+          "画幅",
+          "颜色",
+          "建议零售价（USD）",
+          "首发活动价（USD）",
+          "预计发售日期",
+          "备注"
+        ],
+        [
+          6977732095823,
+          "Brightin Star  MF 28mmF2.8 LM Silver Full-frame",
+          "Leica M",
+          "全画幅",
+          "银色",
+          368.99,
+          318.99,
+          "2026/6/9 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096202,
+          "Brightin Star MF 14mmF2.8 L Black Full-Frame",
+          "L",
+          "全画幅",
+          "黑色",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096219,
+          "Brightin Star MF 14mmF2.8 RF Black Full-Frame",
+          "RF",
+          "全画幅",
+          "黑色",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096226,
+          "Brightin Star MF 14mmF2.8 Z Black Full-Frame",
+          "Z",
+          "全画幅",
+          "黑色",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          6977732096233,
+          "Brightin Star MF 14mmF2.8 E Black Full-Frame",
+          "E",
+          "全画幅",
+          "黑色",
+          279.99,
+          239.99,
+          "2026/6/17 15:00(UTC+8)",
+          "Inventory available"
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight RF Full-frame",
+          "RF",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight L Full-frame",
+          "L",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight Z Full-frame",
+          "Z",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          "Brightin Star MF 50mmF2.0 tri-sight E Full-frame",
+          "E",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          "Brightin Star MF 9mmF5.6 LM Full-frame",
+          "Leica M",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "headerRowIndex": 1,
+      "headers": [
+        "EAN CODE",
+        "SKU",
+        "Mount",
+        "Format",
+        "Color",
+        "RRP（USD）",
+        "Launch price（USD）",
+        "Product Status",
+        "Noted"
+      ],
+      "records": [
+        {
+          "EAN CODE": "EAN编码",
+          "SKU": "型号",
+          "Mount": "卡口",
+          "Format": "画幅",
+          "Color": "颜色",
+          "RRP（USD）": "建议零售价（USD）",
+          "Launch price（USD）": "首发活动价（USD）",
+          "Product Status": "预计发售日期",
+          "Noted": "备注"
+        },
+        {
+          "EAN CODE": 6977732095823,
+          "SKU": "Brightin Star  MF 28mmF2.8 LM Silver Full-frame",
+          "Mount": "Leica M",
+          "Format": "全画幅",
+          "Color": "银色",
+          "RRP（USD）": 368.99,
+          "Launch price（USD）": 318.99,
+          "Product Status": "2026/6/9 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096202,
+          "SKU": "Brightin Star MF 14mmF2.8 L Black Full-Frame",
+          "Mount": "L",
+          "Format": "全画幅",
+          "Color": "黑色",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Product Status": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096219,
+          "SKU": "Brightin Star MF 14mmF2.8 RF Black Full-Frame",
+          "Mount": "RF",
+          "Format": "全画幅",
+          "Color": "黑色",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Product Status": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096226,
+          "SKU": "Brightin Star MF 14mmF2.8 Z Black Full-Frame",
+          "Mount": "Z",
+          "Format": "全画幅",
+          "Color": "黑色",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Product Status": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": 6977732096233,
+          "SKU": "Brightin Star MF 14mmF2.8 E Black Full-Frame",
+          "Mount": "E",
+          "Format": "全画幅",
+          "Color": "黑色",
+          "RRP（USD）": 279.99,
+          "Launch price（USD）": 239.99,
+          "Product Status": "2026/6/17 15:00(UTC+8)",
+          "Noted": "Inventory available"
+        },
+        {
+          "EAN CODE": null,
+          "SKU": "Brightin Star MF 50mmF2.0 tri-sight RF Full-frame",
+          "Mount": "RF",
+          "Format": null,
+          "Color": null,
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Product Status": null,
+          "Noted": null
+        },
+        {
+          "EAN CODE": null,
+          "SKU": "Brightin Star MF 50mmF2.0 tri-sight L Full-frame",
+          "Mount": "L",
+          "Format": null,
+          "Color": null,
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Product Status": null,
+          "Noted": null
+        },
+        {
+          "EAN CODE": null,
+          "SKU": "Brightin Star MF 50mmF2.0 tri-sight Z Full-frame",
+          "Mount": "Z",
+          "Format": null,
+          "Color": null,
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Product Status": null,
+          "Noted": null
+        },
+        {
+          "EAN CODE": null,
+          "SKU": "Brightin Star MF 50mmF2.0 tri-sight E Full-frame",
+          "Mount": "E",
+          "Format": null,
+          "Color": null,
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Product Status": null,
+          "Noted": null
+        },
+        {
+          "EAN CODE": null,
+          "SKU": "Brightin Star MF 9mmF5.6 LM Full-frame",
+          "Mount": "Leica M",
+          "Format": null,
+          "Color": null,
+          "RRP（USD）": null,
+          "Launch price（USD）": null,
+          "Product Status": null,
+          "Noted": null
+        }
+      ],
+      "droppedSensitiveColumns": [
+        "Promotion Wholesale price (USD)",
+        "Wholesale price (USD)"
+      ]
+    },
+    "28MM F2.8": {
+      "address": "A1:C17",
+      "rawRows": [
+        [
+          null,
+          "Model",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver"
+        ],
+        [
+          null,
+          "Product Material",
+          "Brass"
+        ],
+        [
+          null,
+          "Product Dimensions",
+          "21.5mm；9.9mm (without mount)\n"
+        ],
+        [
+          null,
+          "Product Weight ",
+          "125g"
+        ],
+        [
+          null,
+          "Included Accessories",
+          null
+        ],
+        [
+          null,
+          "Manual (Yes / No / Link)",
+          "yes"
+        ],
+        [
+          null,
+          "Angle of View",
+          75.3
+        ],
+        [
+          null,
+          "Minimum Focus Distance",
+          "0.7m"
+        ],
+        [
+          null,
+          "Magnification",
+          "No"
+        ],
+        [
+          null,
+          "Optical Design",
+          "6 elements of 5 group"
+        ],
+        [
+          null,
+          "Aperture",
+          "F2.8-F16"
+        ],
+        [
+          null,
+          "Iris Blades",
+          9
+        ],
+        [
+          null,
+          "Focus Type",
+          "Manual focus"
+        ],
+        [
+          null,
+          "Image Stabilization",
+          "No"
+        ],
+        [
+          null,
+          "Filter Size",
+          "25.5mm"
+        ],
+        [
+          null,
+          "Weather Sealing",
+          "No"
+        ],
+        [
+          null,
+          "Buttons & Knobs Description",
+          "No"
+        ]
+      ],
+      "headerRowIndex": 0,
+      "headers": [
+        "Column1",
+        "Model",
+        "Brightin Star MF 28mmF2.8 LM Full-frame Silver"
+      ],
+      "records": [
+        {
+          "Column1": null,
+          "Model": "Product Material",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "Brass"
+        },
+        {
+          "Column1": null,
+          "Model": "Product Dimensions",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "21.5mm；9.9mm (without mount)\n"
+        },
+        {
+          "Column1": null,
+          "Model": "Product Weight ",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "125g"
+        },
+        {
+          "Column1": null,
+          "Model": "Included Accessories",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": null
+        },
+        {
+          "Column1": null,
+          "Model": "Manual (Yes / No / Link)",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "yes"
+        },
+        {
+          "Column1": null,
+          "Model": "Angle of View",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": 75.3
+        },
+        {
+          "Column1": null,
+          "Model": "Minimum Focus Distance",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "0.7m"
+        },
+        {
+          "Column1": null,
+          "Model": "Magnification",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Optical Design",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "6 elements of 5 group"
+        },
+        {
+          "Column1": null,
+          "Model": "Aperture",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "F2.8-F16"
+        },
+        {
+          "Column1": null,
+          "Model": "Iris Blades",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": 9
+        },
+        {
+          "Column1": null,
+          "Model": "Focus Type",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "Manual focus"
+        },
+        {
+          "Column1": null,
+          "Model": "Image Stabilization",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Filter Size",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "25.5mm"
+        },
+        {
+          "Column1": null,
+          "Model": "Weather Sealing",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Buttons & Knobs Description",
+          "Brightin Star MF 28mmF2.8 LM Full-frame Silver": "No"
+        }
+      ],
+      "droppedSensitiveColumns": []
+    },
+    "14MM F2.8": {
+      "address": "A1:C29",
+      "rawRows": [
+        [
+          null,
+          "Model",
+          "Brightin Star MF 14mmF2.8 Full-frame"
+        ],
+        [
+          null,
+          "Product Material",
+          "Metal"
+        ],
+        [
+          null,
+          "Product Dimensions",
+          "68.2*78mm\n"
+        ],
+        [
+          null,
+          "Product Weight ",
+          "500g"
+        ],
+        [
+          null,
+          "Included Accessories",
+          null
+        ],
+        [
+          null,
+          "Manual (Yes / No / Link)",
+          "yes"
+        ],
+        [
+          null,
+          "Angle of View",
+          114
+        ],
+        [
+          null,
+          "Minimum Focus Distance",
+          "0.2m"
+        ],
+        [
+          null,
+          "Magnification",
+          "No"
+        ],
+        [
+          null,
+          "Optical Design",
+          "13 elements of 9 group (2)"
+        ],
+        [
+          null,
+          "Aperture",
+          "F2.8-F22"
+        ],
+        [
+          null,
+          "Iris Blades",
+          10
+        ],
+        [
+          null,
+          "Focus Type",
+          "Manual focus"
+        ],
+        [
+          null,
+          "Image Stabilization",
+          "No"
+        ],
+        [
+          null,
+          "Filter Size",
+          "82mm"
+        ],
+        [
+          null,
+          "Weather Sealing",
+          "No"
+        ],
+        [
+          null,
+          "Buttons & Knobs Description",
+          "No"
+        ],
+        [
+          null,
+          null,
+          null
+        ],
+        [
+          "Key Features",
+          null,
+          null
+        ],
+        [
+          "14mm Ultra-Wide Angle with Constant F2.8 Aperture",
+          "114° ultra-wide field of view for full-frame cameras, ideal for landscapes, architecture, interiors, and astrophotography.",
+          null
+        ],
+        [
+          null,
+          "Constant F2.8 aperture provides excellent low-light performance with cleaner image quality and lower ISO settings.",
+          null
+        ],
+        [
+          "Advanced Optical Design",
+          "Complex optical structure featuring 13 elements in 9 groups, including 2 aspherical elements, 3 ED elements, and 5 high-refractive index elements.",
+          null
+        ],
+        [
+          null,
+          "Excellent sharpness from center to edge with outstanding edge resolution performance.",
+          null
+        ],
+        [
+          "Superior Edge-to-Edge Image Quality",
+          "Excellent correction of coma and chromatic aberration for improved edge sharpness and cleaner image rendering.",
+          null
+        ],
+        [
+          null,
+          "Outstanding corner performance for astrophotography, with well-controlled star deformation and minimal stretching.",
+          null
+        ],
+        [
+          "Brightin Star NANO IMC Coating",
+          "Multi-layer nano coating enhances light transmission while effectively reducing flare and ghosting.",
+          null
+        ],
+        [
+          null,
+          "Delivers natural color reproduction and clean image quality even under strong backlight conditions.",
+          null
+        ],
+        [
+          "Detachable Filter Holder Design",
+          "Supports standard 82mm square filters such as ND and CPL filters.",
+          null
+        ],
+        [
+          null,
+          "Integrated design helps reduce stray light and improve flare resistance.",
+          null
+        ]
+      ],
+      "headerRowIndex": 0,
+      "headers": [
+        "Column1",
+        "Model",
+        "Brightin Star MF 14mmF2.8 Full-frame"
+      ],
+      "records": [
+        {
+          "Column1": null,
+          "Model": "Product Material",
+          "Brightin Star MF 14mmF2.8 Full-frame": "Metal"
+        },
+        {
+          "Column1": null,
+          "Model": "Product Dimensions",
+          "Brightin Star MF 14mmF2.8 Full-frame": "68.2*78mm\n"
+        },
+        {
+          "Column1": null,
+          "Model": "Product Weight ",
+          "Brightin Star MF 14mmF2.8 Full-frame": "500g"
+        },
+        {
+          "Column1": null,
+          "Model": "Included Accessories",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Manual (Yes / No / Link)",
+          "Brightin Star MF 14mmF2.8 Full-frame": "yes"
+        },
+        {
+          "Column1": null,
+          "Model": "Angle of View",
+          "Brightin Star MF 14mmF2.8 Full-frame": 114
+        },
+        {
+          "Column1": null,
+          "Model": "Minimum Focus Distance",
+          "Brightin Star MF 14mmF2.8 Full-frame": "0.2m"
+        },
+        {
+          "Column1": null,
+          "Model": "Magnification",
+          "Brightin Star MF 14mmF2.8 Full-frame": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Optical Design",
+          "Brightin Star MF 14mmF2.8 Full-frame": "13 elements of 9 group (2)"
+        },
+        {
+          "Column1": null,
+          "Model": "Aperture",
+          "Brightin Star MF 14mmF2.8 Full-frame": "F2.8-F22"
+        },
+        {
+          "Column1": null,
+          "Model": "Iris Blades",
+          "Brightin Star MF 14mmF2.8 Full-frame": 10
+        },
+        {
+          "Column1": null,
+          "Model": "Focus Type",
+          "Brightin Star MF 14mmF2.8 Full-frame": "Manual focus"
+        },
+        {
+          "Column1": null,
+          "Model": "Image Stabilization",
+          "Brightin Star MF 14mmF2.8 Full-frame": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Filter Size",
+          "Brightin Star MF 14mmF2.8 Full-frame": "82mm"
+        },
+        {
+          "Column1": null,
+          "Model": "Weather Sealing",
+          "Brightin Star MF 14mmF2.8 Full-frame": "No"
+        },
+        {
+          "Column1": null,
+          "Model": "Buttons & Knobs Description",
+          "Brightin Star MF 14mmF2.8 Full-frame": "No"
+        },
+        {
+          "Column1": "Key Features",
+          "Model": null,
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": "14mm Ultra-Wide Angle with Constant F2.8 Aperture",
+          "Model": "114° ultra-wide field of view for full-frame cameras, ideal for landscapes, architecture, interiors, and astrophotography.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Constant F2.8 aperture provides excellent low-light performance with cleaner image quality and lower ISO settings.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": "Advanced Optical Design",
+          "Model": "Complex optical structure featuring 13 elements in 9 groups, including 2 aspherical elements, 3 ED elements, and 5 high-refractive index elements.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Excellent sharpness from center to edge with outstanding edge resolution performance.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": "Superior Edge-to-Edge Image Quality",
+          "Model": "Excellent correction of coma and chromatic aberration for improved edge sharpness and cleaner image rendering.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Outstanding corner performance for astrophotography, with well-controlled star deformation and minimal stretching.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": "Brightin Star NANO IMC Coating",
+          "Model": "Multi-layer nano coating enhances light transmission while effectively reducing flare and ghosting.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Delivers natural color reproduction and clean image quality even under strong backlight conditions.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": "Detachable Filter Holder Design",
+          "Model": "Supports standard 82mm square filters such as ND and CPL filters.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        },
+        {
+          "Column1": null,
+          "Model": "Integrated design helps reduce stray light and improve flare resistance.",
+          "Brightin Star MF 14mmF2.8 Full-frame": null
+        }
+      ],
+      "droppedSensitiveColumns": []
+    },
+    "28mmf2.8 CN": {
+      "address": "A1:C18",
+      "rawRows": [
+        [
+          null,
+          "项目",
+          "参数"
+        ],
+        [
+          null,
+          "型号",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版"
+        ],
+        [
+          null,
+          "产品材质",
+          "黄铜"
+        ],
+        [
+          null,
+          "产品尺寸",
+          "21.5mm；9.9mm（不含卡口）"
+        ],
+        [
+          null,
+          "产品重量",
+          "125g"
+        ],
+        [
+          null,
+          "包含配件",
+          "—"
+        ],
+        [
+          null,
+          "说明书（是 / 否 / 链接）",
+          "有"
+        ],
+        [
+          null,
+          "视角",
+          "75.3°"
+        ],
+        [
+          null,
+          "最近对焦距离",
+          "0.7m"
+        ],
+        [
+          null,
+          "放大倍率",
+          "无"
+        ],
+        [
+          null,
+          "光学结构",
+          "5组6片"
+        ],
+        [
+          null,
+          "光圈范围",
+          "F2.8–F16"
+        ],
+        [
+          null,
+          "光圈叶片",
+          "9片"
+        ],
+        [
+          null,
+          "对焦方式",
+          "手动对焦"
+        ],
+        [
+          null,
+          "防抖功能",
+          "无"
+        ],
+        [
+          null,
+          "滤镜尺寸",
+          "25.5mm"
+        ],
+        [
+          null,
+          "防尘防滴",
+          "无"
+        ],
+        [
+          null,
+          "按键与旋钮说明",
+          "无"
+        ]
+      ],
+      "headerRowIndex": 1,
+      "headers": [
+        "Column1",
+        "型号",
+        "Brightin Star MF 28mm F2.8 LM 全画幅 银色版"
+      ],
+      "records": [
+        {
+          "Column1": null,
+          "型号": "产品材质",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "黄铜"
+        },
+        {
+          "Column1": null,
+          "型号": "产品尺寸",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "21.5mm；9.9mm（不含卡口）"
+        },
+        {
+          "Column1": null,
+          "型号": "产品重量",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "125g"
+        },
+        {
+          "Column1": null,
+          "型号": "包含配件",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "—"
+        },
+        {
+          "Column1": null,
+          "型号": "说明书（是 / 否 / 链接）",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "有"
+        },
+        {
+          "Column1": null,
+          "型号": "视角",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "75.3°"
+        },
+        {
+          "Column1": null,
+          "型号": "最近对焦距离",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "0.7m"
+        },
+        {
+          "Column1": null,
+          "型号": "放大倍率",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "无"
+        },
+        {
+          "Column1": null,
+          "型号": "光学结构",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "5组6片"
+        },
+        {
+          "Column1": null,
+          "型号": "光圈范围",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "F2.8–F16"
+        },
+        {
+          "Column1": null,
+          "型号": "光圈叶片",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "9片"
+        },
+        {
+          "Column1": null,
+          "型号": "对焦方式",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "手动对焦"
+        },
+        {
+          "Column1": null,
+          "型号": "防抖功能",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "无"
+        },
+        {
+          "Column1": null,
+          "型号": "滤镜尺寸",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "25.5mm"
+        },
+        {
+          "Column1": null,
+          "型号": "防尘防滴",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "无"
+        },
+        {
+          "Column1": null,
+          "型号": "按键与旋钮说明",
+          "Brightin Star MF 28mm F2.8 LM 全画幅 银色版": "无"
+        }
+      ],
+      "droppedSensitiveColumns": []
+    },
+    "Sheet1": {
+      "address": "A1:C18",
+      "rawRows": [
+        [
+          null,
+          "项目",
+          "参数"
+        ],
+        [
+          null,
+          "型号",
+          "星曜 MF 14mmF2.8 全画幅"
+        ],
+        [
+          null,
+          "产品材质",
+          "航空铝材质+CNC阳极氧化工艺"
+        ],
+        [
+          null,
+          "产品尺寸",
+          "68.2*78mm\n"
+        ],
+        [
+          null,
+          "产品重量",
+          "500g"
+        ],
+        [
+          null,
+          "包含配件",
+          null
+        ],
+        [
+          null,
+          "说明书（是 / 否 / 链接）",
+          "yes"
+        ],
+        [
+          null,
+          "视角",
+          116
+        ],
+        [
+          null,
+          "最近对焦距离",
+          "0.2m"
+        ],
+        [
+          null,
+          "放大倍率",
+          "No"
+        ],
+        [
+          null,
+          "光学结构",
+          "9组13片（2非球、3ED、5高折）"
+        ],
+        [
+          null,
+          "光圈范围",
+          "F2.8-F22"
+        ],
+        [
+          null,
+          "光圈叶片",
+          "10片（10针星芒）"
+        ],
+        [
+          null,
+          "对焦方式",
+          "手动对焦"
+        ],
+        [
+          null,
+          "防抖功能",
+          "无"
+        ],
+        [
+          null,
+          "滤镜尺寸",
+          "可拆卸滤镜支架（82mm）"
+        ],
+        [
+          null,
+          "防尘防滴",
+          "No"
+        ],
+        [
+          null,
+          "按键与旋钮说明",
+          "No"
+        ]
+      ],
+      "headerRowIndex": 1,
+      "headers": [
+        "Column1",
+        "型号",
+        "星曜 MF 14mmF2.8 全画幅"
+      ],
+      "records": [
+        {
+          "Column1": null,
+          "型号": "产品材质",
+          "星曜 MF 14mmF2.8 全画幅": "航空铝材质+CNC阳极氧化工艺"
+        },
+        {
+          "Column1": null,
+          "型号": "产品尺寸",
+          "星曜 MF 14mmF2.8 全画幅": "68.2*78mm\n"
+        },
+        {
+          "Column1": null,
+          "型号": "产品重量",
+          "星曜 MF 14mmF2.8 全画幅": "500g"
+        },
+        {
+          "Column1": null,
+          "型号": "包含配件",
+          "星曜 MF 14mmF2.8 全画幅": null
+        },
+        {
+          "Column1": null,
+          "型号": "说明书（是 / 否 / 链接）",
+          "星曜 MF 14mmF2.8 全画幅": "yes"
+        },
+        {
+          "Column1": null,
+          "型号": "视角",
+          "星曜 MF 14mmF2.8 全画幅": 116
+        },
+        {
+          "Column1": null,
+          "型号": "最近对焦距离",
+          "星曜 MF 14mmF2.8 全画幅": "0.2m"
+        },
+        {
+          "Column1": null,
+          "型号": "放大倍率",
+          "星曜 MF 14mmF2.8 全画幅": "No"
+        },
+        {
+          "Column1": null,
+          "型号": "光学结构",
+          "星曜 MF 14mmF2.8 全画幅": "9组13片（2非球、3ED、5高折）"
+        },
+        {
+          "Column1": null,
+          "型号": "光圈范围",
+          "星曜 MF 14mmF2.8 全画幅": "F2.8-F22"
+        },
+        {
+          "Column1": null,
+          "型号": "光圈叶片",
+          "星曜 MF 14mmF2.8 全画幅": "10片（10针星芒）"
+        },
+        {
+          "Column1": null,
+          "型号": "对焦方式",
+          "星曜 MF 14mmF2.8 全画幅": "手动对焦"
+        },
+        {
+          "Column1": null,
+          "型号": "防抖功能",
+          "星曜 MF 14mmF2.8 全画幅": "无"
+        },
+        {
+          "Column1": null,
+          "型号": "滤镜尺寸",
+          "星曜 MF 14mmF2.8 全画幅": "可拆卸滤镜支架（82mm）"
+        },
+        {
+          "Column1": null,
+          "型号": "防尘防滴",
+          "星曜 MF 14mmF2.8 全画幅": "No"
+        },
+        {
+          "Column1": null,
+          "型号": "按键与旋钮说明",
+          "星曜 MF 14mmF2.8 全画幅": "No"
+        }
+      ],
+      "droppedSensitiveColumns": []
+    }
+  }
+}
