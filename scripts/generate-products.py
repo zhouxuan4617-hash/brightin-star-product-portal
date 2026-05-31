@@ -487,8 +487,8 @@ def read_drive_links_json() -> dict[str, str]:
         add_link(
             links,
             row.get("productKey") or row.get("productName") or row.get("model") or row.get("name") or "",
-            row.get("folderName") or row.get("folder") or row.get("model") or "",
-            row.get("googleDriveFolderUrl") or row.get("url") or row.get("driveUrl") or row.get("link") or "",
+            row.get("folderName") or row.get("folder_name") or row.get("folder") or row.get("model") or "",
+            row.get("googleDriveFolderUrl") or row.get("asset_link") or row.get("url") or row.get("driveUrl") or row.get("link") or "",
         )
     return links
 
